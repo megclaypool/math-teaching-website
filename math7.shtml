@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<title>Ms. Claypool's 7th Grade Math Page</title>
+<meta name="author" content="Nox">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<base href="http://math.claypool.me" target="_blank">
+
+<!--#include virtual="/header.inc"-->
+
+<div id="container">
+	<div id="main" class="column">
+<center><span class="script xlarge">7th Grade Assignment Calendar</span>
+<br>Remember to select an event and then click "more details" to download any worksheets etc.</center>
+<div style="width: 100%; height: 90%; overflow-y: scroll; overflow-x: scroll;">
+<p style="width: 140%; height: 105%">
+<iframe src="resources/gcalendar-wrapper.php?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=c1ufl5lpbus6cdvmte19e3kr7c%40group.calendar.google.com&amp;color=%23060D5E&amp;ctz=America%2FLos_Angeles" width="100%" height="600px"></iframe>
+</p>
+</div>
+</div>
+  <!--#include virtual="/navbar7.inc"-->
+  <!--#include virtual="/navbar.inc"-->
+</div>
+</div>
+</body>
+</html>
+

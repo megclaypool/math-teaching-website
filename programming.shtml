@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+
+<html>
+<head>
+<title>Ms. Claypool's Intro to Programming</title>
+<meta name="author" content="Nox">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="teachingstyles.css" type="text/css">
+<link rel="icon" href="images/shark-favicon-32x32.png" type="image/x-icon">
+<link rel="shortcut icon" href="images/shark-favicon-32x32.png" type="image/x-icon">
+<link href='https://fonts.googleapis.com/css?family=Quintessential|Merienda|Handlee|Courgette|Kaushan+Script|Tangerine:400,700|Dancing+Script:400,700|Cookie' rel='stylesheet' type='text/css'>
+<base href="http://math.claypool.me" target="_top">
+</head>
+
+<body style="background-color: #c9c9c9; text-align: center; font-size: 1.5em;">
+<h2 class="script">
+Welcome to Intro to Programming!
+</h2>
+<p>
+Here's what we're doing (so far...)
+<ul style="text-align: left;">
+   <li><a href="http://www.w3schools.com/html/">W3 Schools HTML Tutorial</a></li>
+   <li><a href="http://www.w3schools.com/css/">W3 Schools CSS Tutorial</a></li>
+   <li><a href="https://www.codecademy.com/courses/my-first-webpage/0/1">Code Academy: Your first website with CSS</a></li>
+   <li><a href="webpages.shtml">Program your own webpage!</a></li>
+</p>
+</body>
+</html>

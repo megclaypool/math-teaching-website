@@ -1,0 +1,479 @@
+@charset "UTF-8";
+
+/*Main Layout CSS*/
+
+/* Key idea: width and height DO NOT include padding, border, or margin. So remember to add those on to the totals.
+
+	Fiddly little detail: In order to make the navbar and the main the same length, I applied a min-height to the container. But that means that the interior divs are contained within it, instead of just spilling out like in the header. That means that the shadow on the side of the main was getting clipped off. (Take a look at the headerwrapper & container with borders applied.)
+	
+	Solution: Since the shadow takes up 10 extra pixels on the side, I made the right margin of the container 10 smaller. Then I used right: 10px to scoot the main back over to where it should be, leaving 10 extra pixels of room for the shadow. Of course, then I had to adjust the navbar too :p
+*/
+
+body {
+	background-color: gray; 
+	font-size: 90%;
+	line-height: 1.5; 
+	font-family: "Gill Sans", "GillSans", "Verdana", "Century Gothic", "Century Gothic MS", "CenturyGothic", "CenturyGothic MS", "Trebuchet", "Trebuchet MS", "TrebuchetMS", sans-serif;
+	}
+	
+#toplevel {
+	min-width: 800px;      /* 2x (Left fullwidth + Right padding) */
+}
+
+#headerwrapper {
+	padding-left: 220px;   /* LeftColumn fullwidth + gutter */
+	padding-right: 40px;  /* Right padding (both sides) */
+	margin: 20px 15px 0px 15px;
+	}
+	
+#headerwrapper .column {
+	position: relative;
+	float: left;
+	}
+	
+#headerpic {
+	width: 200px;          /* LC width */
+	padding: 0px;       /* LC padding */
+	right: 260px;          /* LC fullwidth + CC padding + gutter */
+	margin-left: -100%;
+	height: 150px;
+	text-align:center;
+	vertical-align: bottom;
+	background-color: #4c47b8;
+	border-radius: 5px;
+	/* offset left, top, thickness, color with alpha */
+	box-shadow: 5px 5px 5px #242424;
+	}
+	
+#headertitle {
+	padding: 30px 20px;    /* CC padding */
+	width: 100%;
+	min-height: 90px;
+	background-color: #4c47b8;
+	/* old color: #2B4F81;
+	to match BFS logo use #232367; */
+	text-shadow: 2px 2px 2px #585858;
+	font-style: normal;
+	font-size: 2.5em; 
+	text-align: center;
+	color: #ffffff;
+	}
+	
+.headertitleroundshadow {
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #242424;
+}
+	
+#spacer {
+	position: relative;
+	clear: both;
+	float: left;
+	height: 20px;
+	}
+
+#container {
+	clear: both;
+	padding-left: 230px;   /* LeftColumn fullwidth */
+	padding-right: 40px;  /* Right padding (both sides)*/
+	margin: 0px 5px 20px 15px;
+	overflow: hidden;
+	}
+	
+#container .column {
+	position: relative;
+	float: left;
+	padding-bottom: 20010px;  /* X + padding-bottom */
+	margin-bottom: -20000px;  /* X */
+	}
+
+#main {
+	padding: 20px 20px 20px 20px;    /* CC padding */
+	width: 100%;
+	position: relative;
+	right: 10px;
+	background-color: black;
+	color: #FFFFFF;
+	min-height: 90px;
+	border-radius: 5px;
+	/* offset left, top, thickness, color with alpha */
+	box-shadow: 5px 5px 5px #242424;
+	border: 0px;
+	}
+	
+#navbar {
+	width: 180px;          /* LC width */
+	padding: 10px;       /* LC padding */
+	right: 270px;          /* LC fullwidth + CC padding + gutter */
+	margin-left: -100%;
+	background-color: black;
+	color: #ffffff;
+	font-size: .8em; 
+	border-radius: 5px;
+	/* offset left, top, thickness, color with alpha */
+	box-shadow: 5px 5px 5px #242424;
+	}
+	
+#toc {
+	min-width: 0px;
+	width:  150px;
+	color: #c9c9c9;
+	font-size: .8em;
+	}
+
+/*** IE Fix ***/
+* html #left {
+  left: 150px;           /* RC fullwidth */
+	}
+
+
+
+/*Styles*/
+
+a {
+	color: #3399ee;
+	padding: 2px;
+	text-decoration: none;
+	}
+
+a:link {
+	color: #3399ee;
+	padding: 2px;
+	text-decoration: none;
+	}
+	
+a:visited {
+	color: #9966ee;
+	padding: 2px;
+	text-decoration: none;
+	}
+	
+a:hover {
+	color: black;	
+	background-color: #3399ee;
+	padding: 2px;
+	border-radius: 2px; 
+	text-decoration: none;
+	}
+	
+a:hover:visited {
+	text-decoration: none;
+	color: black;	
+	background-color: #9966ee;
+	padding: 2px;
+	border-radius: 2px; 
+	}
+	
+a:active {
+	color: orange;
+	padding: 2px;
+	text-decoration: none;
+	}
+
+a.none:link { 
+	color: blue; 
+	text-decoration: none 
+	}
+	
+a.none:active { 
+	color: blue; 
+	text-decoration: none 
+	}
+	
+a.none:visited { 
+	color: blue; 
+	text-decoration: none 
+	}
+	
+a.none:hover { 
+	color: blue; 
+	text-decoration: none 
+	}
+	
+.big {
+	font-size: 1.5em;
+	}
+
+h1 {
+	font-size: 1.75em; 
+	} 
+	
+.h1 {
+	font-size: 1.75em; 
+	} 
+	
+h2 { 
+	font-size: 1.5em; 
+	}
+	
+.h2 { 
+	font-size: 1.5em; 
+	}
+
+h3 { 
+	font-size: 1.25em; 
+	} 
+
+.h3 { 
+	font-size: 1.25em;
+	} 
+
+h4 { 
+	font-size: 1.15em; 
+	}  
+
+.h4 { 
+	font-size: 1.15em;
+	}  
+	
+html { 	
+	font-size: 100%;
+	}
+
+li {
+	text-indent: 15px;
+	line-height: 1.5em;
+	}	
+
+.logo {
+	padding: 10px;
+	height: 88%;
+	}
+
+.medium {
+	font-size: 1.25em;
+	}
+
+.medium-small {
+	font-size: 1.15em;
+	}
+
+p { 
+	font-size: 1em;
+	}  
+
+table { 
+	font-size: 100%;
+	text-align: center;
+	}
+
+.border { 
+	border-color: blue;
+	border-style: dotted; 
+	border-width: 5px; 
+	}
+	
+.center_bold { 
+	text-align: center; 
+	font-weight: bold; 
+	font-size: 1.4em; 
+	}
+
+.centered {
+	text-align: center; 
+	}
+	
+.calendar {
+	width: 100%;
+	height: 600px;
+	vertical-align: top;
+	margin: 15px 0px 0px 0px;
+	padding: 0px;
+	overflow: auto;
+	color: #cccccc;
+	border: 0px;
+	}
+	
+/*.callme {
+	position: relative;
+	top: -20px;
+	}*/
+
+.collapse {
+	display:block;
+	text-decoration: underline;
+	}
+
+.collapse + input {
+	display:none;
+	}
+
+.collapse + input + * {
+	display:none;
+	}
+
+.collapse+ input:checked + * {
+	display:block;
+	}
+
+.emph {
+	color: #66043d;
+	font-weight: bold; 
+	font-size: 1.2em;
+	}
+
+.grades {
+	width: 100%;
+	min-height: 2000px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-left: 0px;
+	padding-bottom: 5px;
+	overflow: auto;
+	border: none;
+	}
+	
+.hover:hover {
+	color: white;	
+	background-color: #464646;
+	padding: 2px;
+	border-radius: 2px; 
+	text-decoration: none;
+	}
+
+.indent {
+	margin-left: 30px;
+	margin-bottom: 5px;
+	font-family: "Gill Sans", "GillSans", "Verdana", "Century Gothic", "Century Gothic MS", "CenturyGothic", "CenturyGothic MS", "Trebuchet", "Trebuchet MS", "TrebuchetMS", sans-serif;
+	}
+	
+.large {
+	font-weight: bold; 
+	font-size: large;
+	}
+	
+.small {
+	font-size: .8em; 
+	}
+
+.xlarge {
+	font-size: x-large; 
+	}
+
+.xxlarge {
+	font-size: xx-large;
+	}
+	
+.script {
+	font-family: 'Merienda', cursive;
+	}
+	
+.underline {
+	text-decoration: underline;
+	}	
+	
+	
+/* Grade Page Styles */
+
+.classmenu {
+	background-color: black;
+	min-width: 100px;
+	min-height: 600px;
+	color: #c9c9c9;
+}
+
+.main_table {
+	text-align: center;  
+	vertical-align: middle; 
+	color: #c9c9c9; 
+	margin: 2px auto; 
+	border-style: solid;
+	border-collapse: collapse;
+	width: 400px; 
+	border-width: 1px; 
+	border-color: gray;
+	}
+
+.main_header_row { 
+	font-weight: bold; 
+	font-size: 1.4em;
+	height: 30px;
+	}
+
+.main_body_row {
+	height: 50px;
+	}
+
+.main_table_grades {
+	width: 50%;
+	}
+
+.main_table_work {
+	width: 50%;
+	}
+
+.main_table_cell {
+	padding: 10px;
+	border-width: 1px; 
+	border-style: inset; 
+	border-color: gray;
+	}
+	
+	
+	
+/* Jeopardy Page Styles */
+	
+a:link.janswer {
+	color: #254429;
+	text-decoration: none;
+	border-style: none;
+	}
+	
+a:link.jeopardy {
+	color: #254429;
+	text-decoration: none;
+	border-style: none;
+	}
+
+a:visited.janswer {
+	color: #3c2354;
+	text-decoration: none;
+	border-style: none;
+	}
+	
+a:visited.jeopardy {
+	color: #c9c9c9;
+	text-decoration: none;
+	border-style: none;
+	}
+
+a:hover.janswer {
+	color: white;	
+	background-color: #254429;
+	text-decoration: underline;
+	}
+	
+a:hover.jeopardy {
+	color: white;	
+	background-color: #254429;
+	text-decoration: underline;
+	}
+	
+.jeopardy {
+	text-align: center;  
+	vertical-align: middle; 
+	color: black ; 
+	margin: 0px auto; 
+	border-style: solid;
+	border-collapse: collapse;
+	width: 90%; 
+	border-width: 2px; 
+	border-color: gray;
+	}
+
+.jeopardy_header_row {
+	font-family: "georgia"; 
+	font-weight: bold; 
+	height: 50px;
+	}
+
+.jeopardy_body_row {
+	height: 70px;
+	}
+	
+.jeopardy_table_cell {
+	padding: 10px;
+	border-width: 2px; 
+	border-style: solid; 
+	border-color: gray;
+	}
+-->
