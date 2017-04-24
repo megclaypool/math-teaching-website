@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<title>Ms. Claypool's 7th Grade Math Page</title>
+<meta name="author" content="Nox">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<base href="http://math.claypool.me" target="_blank">
+
+<!--#include virtual="/header.inc"-->
+
+<div id="container">
+	<div id="main" class="column">
+<center><h1 class="script">Resources to Review Each Concept</h1>
+<p style="width:95%;">Please don't use a calculator on the Khan Academy exercises (unless one pops up for that exercise). We want to make sure that you know how to do these types of problems by hand. (Also, you won't be allowed to use a calculator on the quizzes, so why cheat yourself by practicing with one?)</p></center>
+<br/>
+
+
+<!--
+<label class="collapse big script" for="_5">Collapse 5</label> <input id="_5" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href=""></a>
+<br><a href=""></a>
+<br><a href=""></a>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href=""></a>
+<br><a href=""></a>
+<br><a href=""></a>
+</div> 
+-->
+
+<label class="collapse big script" for="_11">Proportions & Percents</label> <input id="_11" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/j-va9qeYyOI">Proportions (6:03)</a>
+<br><a href="https://youtu.be/wJZmSn7A-eA">Examples: Solving Basic Proportions (1:40)</a>
+<br><a href="https://youtu.be/vnB1mh5X5cA">Examples: Applications Using Proportions (4:52)</a>
+<br><a href="https://youtu.be/31l-07bFl-o">Examples: Solving Proportions Involving Decimals and Fractions (3:56)</a>
+<br><a href="https://youtu.be/NRpK1-sUpLY">Ex: Proportion Application - Scaling a Recipe (3:32)</a>
+<br><a href="https://youtu.be/yGid1a_x38g">Ex: Proportion Applications - Mixtures (4:21)</a>
+<br><a href="https://youtu.be/yl0Rb6T09VM">Solving Percent Problems Using The Percent Proportion (8:35)</a> <-- This is the method we were using on the Cupid WS
+<br><a href="https://youtu.be/LkTYkHbUiU4">Solving Percent Problems Using The Percent Equation (8:08)</a> <-- This is the method we were using on the Moose WS
+<br><a href="https://youtu.be/cApv0GeF2XM">Example 1: Solve a Percent Problem Using a Percent Proportion (2:03)</a>
+<br><a href="https://youtu.be/wsBhmrmumJo">Example 2: Solve a Percent Problem Using a Percent Proportion (2:19)</a>
+<br><a href="https://youtu.be/1GTPRROi1tE">Example 3: Determine What Percent One Number is of Another Using a Percent Proportion (2:33)</a>
+<br>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-equations-of-proportional-relationships/e/writing-proportional-equations">Writing proportional equations</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/ratios-core-algebra/e/writing_proportions">Writing proportions</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/ratios-core-algebra/e/proportions_1">Solving proportions</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/ratios-core-algebra/e/proportions_2">Solving proportions 2</a>
+<br><a href="https://www.khanacademy.org/math/ab-sixth-grade-math/ab-number/ratios-percentages/e/ratio_word_problems">Ratio word problems</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-foundations/algebra-foundations-decimal-operations/e/finding_percents">Finding percents</a>
+<br><a href="https://www.khanacademy.org/math/ab-sixth-grade-math/ab-number/ratios-percentages/e/percentage_word_problems_1">Percent word problems</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/decimals-pre-alg/percent-word-probs-pre-alg/e/discount_tax_and_tip_word_problems">Discount, tax, and tip word problems</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/decimals-pre-alg/percent-word-probs-pre-alg/e/markup_and_commission_word_problems">Markup and commission word problems</a>
+<br><a href="https://www.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions/direct-inverse-props/e/constructing-proportions-to-solve-application-problems">Proportion word problems</a>
+<br><a href="https://www.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions/direct-inverse-props/e/rate_problems_2">Rate problems 2</a>
+<br><a href="https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-rates/e/rate_problems_1">Rates with fractions</a>
+</div> 
+
+<label class="collapse big script" for="_10">Solving Equations</label> <input id="_10" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/nQv1v8zxXs0">An Intro to Solving Linear Equations: What Does it Mean to be a Solution? (4:25)</a>
+<br><a href="https://youtu.be/d6L-ptO-5X0">Solving Some Two-Step Linear Equations (5:04)</a>
+<br><a href="https://youtu.be/f5VoZwtSy0U">Solving Some Multi-Step Linear Equations with Distribution (4:38)</a>
+<br><a href="https://youtu.be/GmMX3-nTWbE">Solving Linear Equations Made Easy! (13:00)</a>
+<br><a href="https://youtu.be/ldYGiXSHa_Q">Solving Linear Equations: One-Step -- Multi-Step (12:59)</a>
+<br><a href="https://youtu.be/TkL0Iqs9mpY">Solving Complex Linear Equations - Example 1 (2:23)</a>
+<br><a href="https://youtu.be/JDVRQWA5NZk">Solving Complex Linear Equations - Example 2 (2:54)</a>
+<br><a href="https://youtu.be/KwLWAyDVAV4">Solving Complex Linear Equations - Example 3 (2:14)</a>
+<br>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-solving-basic-equations/e/linear_equations_1">One-step equations with multiplication and division</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-solving-basic-equations/e/one_step_equations">One-step equations with addition and subtraction</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-solving-basic-equations/e/linear_equations_2">Two-step equations</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations/e/linear_equations_3">Linear equations with variables on both sides
+</a>
+<br><a href="https://www.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/reducing-equations-simpler-form/e/multistep_equations_with_distribution">Linear equations with parentheses</a>
+<br><a href="https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-8th-two-step-equations-dec-frac/e/two-step-equations-with-decimals-and-fractions">Two-step equations with decimals and fractions</a>
+<br><a href="https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-8th-two-step-equations-dec-frac/e/find-the-mistake-two-step-equations">Find the mistake: two-step equations</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-linear-equation-word-problems/e/linear-equation-world-problems-2">Two-step equations word problems</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-linear-equation-word-problems/e/integer_sums">Sums of consecutive integers word problems</a>
+<br><a href="https://www.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-more-applications-1/e/age_word_problems">Age word problems</a>
+</div> 
+
+<label class="collapse big script" for="_9">5-D Process for Solving Word Problems</label> <input id="_9" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/fj7YgHYutto">5D Tables for Solving Word Problems (13:37)</a>
+<br><a href="https://youtu.be/RqJ4WY6bQ-4">5D Process (9:29)</a>
+<br><a href="https://youtu.be/dfqo0R1a65c">5-D Process Explained (9:37)</a>
+<br><a href="https://youtu.be/1_vtfmYJafo">How to Use the 5D Process (8:41)</a>
+<br><a href="https://youtu.be/-tfFf4OgK-E">Writing Equations Using the 5D Process (9:26)</a>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br>Note that Khan Academy doesn't teach the 5-D process. However, these are either problems that help you practice reading and understanding word problems or problems that can be solved with the 5-D process.
+<br><a href="https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-more-fewer-100/e/addition-and-subtraction-word-problems-within-100--level-3">Word problems with "more" and "fewer" 1</a>
+<br><a href="https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-more-fewer-100/e/addition-and-subtraction-word-problems-within-100--level-4">Word problems with "more" and "fewer" 2</a>
+<br><a href="https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-20/cc-early-math-word-problems-within-20/e/addition-and-subtraction-word-problems-within-20--level-1">Addition and subtraction word problems 1
+</a>
+<br><a href="https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-20/cc-early-math-word-problems-within-20/e/addition-and-subtraction-word-problems-within-20--level-2">Addition and subtraction word problems 2</a>
+<br><a href="https://www.khanacademy.org/math/on-sixth-grade-math/on-number-sense-numeration/on-multiplication-division/e/multi-step-word-problems-with-whole-numbers">Multi-step word problems with whole numbers</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-linear-equation-word-problems/e/integer_sums">Sums of consecutive integers</a> &#8592; This is a classic type of word problem that works very well with the 5-D process!
+</div> 
+
+<label class="collapse big script" for="_8">Compound Probability</label> <input id="_8" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/xLK0MWRwFYc">Probability - Part Two : Compound Probability (12:06)</a>
+<br><a href="https://youtu.be/5zuYkWoSsi0">Probability of Compound Events & Tree Diagrams (8:08)</a>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/probability/independent-dependent-probability/independent_events/e/compound-events">Probabilities of compound events</a>
+</div> 
+
+<label class="collapse big script" for="_7">Simple Probability</label> <input id="_7" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/3wcsXGzF4Bo">Simple Probability (4:32)</a>
+<br><a href="https://youtu.be/AY3O_qsSnbE">Probability - Part One : Simple Probability (12:51)</a>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/on-sixth-grade-math/on-data-management-probability/on-probability/e/probability_1">Simple probability</a>
+</div> 
+<hr>
+<label class="collapse big script" for="_6">Area and Perimeter with Algebra Tiles</label> <input id="_6" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/01LVNih38p0">Finding the Area & Perimeter Using Algebra Tiles (6:05)</a>
+<br><a href="https://youtu.be/P0kg2bZPTKw">Perimeter with Algebra Tiles (5:19)</a>
+</div> 
+
+<label class="collapse big script" for="_5">Combining Like Terms</label> <input id="_5" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/RrR_JdSGVwU">Algebra - Distributive Property and Combining Like Terms Part 1 (16:59)</a>
+<br><a href="https://youtu.be/T0a92gEDukY">Algebra - Distributive and Combining Like Term Part 2 (8:15)</a>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equivalent-exp/cc-6th-combining-like-terms/e/combining-like-terms-0.5">Combining like terms</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-expressions/core-algebra-manipulating-expressions/e/combining_like_terms_1">Combining like terms with negative coefficients</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-expressions/core-algebra-manipulating-expressions/e/combining_like_terms_2">Combining like terms with distribution and negative numbers</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-expressions/core-algebra-manipulating-expressions/e/manipulating-linear-expressions-with-rational-coefficients">Combining like terms with rational coefficients</a>
+<br><a href="https://www.khanacademy.org/math/algebra-basics/core-algebra-expressions/core-algebra-manipulating-expressions/e/equivalent-forms-of-expressions-1">Equivalent expressions with distribution and combining like terms</a>
+</div> 
+
+<label class="collapse big script" for="_4">Adding and Subtracting Fractions</label> 
+<input id="_4" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/WrvDWD9HvOs">Adding Fractions With Rectangle Models (7:35)</a>
+<br><a href="https://youtu.be/YjEwB3dqe1A">Subtracting Fractions Using Rectangle Models (7:54)</a>
+<br><a href="https://youtu.be/Eq3g8N2tofM">Fraction Subtraction: Using Rectangles to Subtract Improper Fractions and Mixed Numbers (10:45)</a>
+<br><a href="https://youtu.be/5juto2ze8Lg">Math Antics - Adding and Subtracting Fractions with Like Denominators (4:21)</a>
+<br><a href="https://youtu.be/eZW75WKNHBg">How To Find a Least Common Denominator (7:06)</a>
+<br><a href="https://youtu.be/N-Y0Kvcnw8g">Math Antics - Common Denominator ECD (5:06)</a>
+<br><a href="https://youtu.be/pZEmFSP3Z0I">Math Antics - Common Denominator LCD (5:22)</a>
+<br><a href="https://youtu.be/87EWFf12nGI">Adding Fractions 2 (9:52)</a>
+<br><a href="https://youtu.be/zsaDSumN_tc">Subtracting Fractions 1 (9:24)</a>
+<br><a href="https://youtu.be/Esl-M6qdnUg">Subtracting Fractions from Whole Numbers with BORROWING (7:08)</a>
+<br><a href="https://youtu.be/LAH7oJLenms">Subtracting Mixed Numbers from Mixed Numbers with BORROWING (13:04)</a>
+<br>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/Adding_and_subtracting_fractions/e/adding_fractions_with_common_denominators">Adding fractions with common denominators </a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/Adding_and_subtracting_fractions/e/subtracting_fractions_with_common_denominators">Subtracting fractions with common denominators </a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/mixed-number-add-sub-pre-alg/e/adding_subtracting_mixed_numbers_0.5">Adding and subtracting mixed numbers with like denominators 1</a>
+<br><a href="https://www.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions/e/adding-and-subtracting-mixed-numbers-with-like-denominators-2">Adding and subtracting mixed numbers with like denominators 2</a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/Adding_and_subtracting_fractions/e/adding-and-subtracting-fractions-with-like-denominators-word-problems">Adding and subtracting fractions with like denominators word problems </a>
+<br><a href="https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/cc-5th-vis-add-sub-frac-unlike-denom/e/using-visuals-to-add-and-subtract-fractions-with-unlike-denominators-">Using visuals to add and subtract fractions with unlike denominators</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/e/adding_fractions_0.5">Adding fractions with 10 and 100 as denominators</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/e/adding_fractions">Adding fractions with unlike denominators</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/e/subtracting_fractions">Subtracting fractions with unlike denominators</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/e/adding_and_subtracting_fractions">Adding and subtracting negative fractions</a>
+<br><a href="https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/cc-5th-add-sub-fractions/e/adding-and-subtracting-fractions-with-unlike-denominators">Adding and subtracting fractions challenge</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/add-subtract-fracs-wp-pre-alg/e/adding-and-subtracting-fractions-with-unlike-denominators-word-problems">Adding and subtracting fractions with unlike denominators word problems</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/mixed-number-add-sub-pre-alg/e/adding_subtracting_mixed_numbers_1">Adding and subtracting mixed numbers with unlike denominators 1</a>
+<br><a href="https://www.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions/e/adding-and-subtracting-mixed-numbers-with-unlike-denominators-2">Adding and subtracting mixed numbers with unlike denominators 2</a>
+</div>
+
+<label class="collapse big script" for="_3">Multiplying and Dividing Fractions</label> <input id="_3" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/Pwz_OdMZKro">Multiply Fractions using Rectangle Models (11:28)</a>
+<br><a href="https://youtu.be/9pJnuLo7kNQ">Multiplying Fractions 1 of 3 (10:45)</a>
+<br><a href="https://youtu.be/1lpJl8HOoNY">Multiplying Fractions 2 of 3 (8:23)</a>
+<br><a href="https://youtu.be/Ip6BxQxFlqw">Multiplying Fractions 3 of 3 (11:56)</a>
+<br><a href="https://youtu.be/qmfXyR7Z6Lk">Math Antics - Multiplying Fractions (5:42)</a>
+<br><a href="https://youtu.be/zx_8zoMfnBc">Fraction Division Using Giant Ones (9:29)</a>
+<br><a href="https://youtu.be/Wdctt9Qbgr8">Fraction Division Practice Problems (4:23)</a>
+<br><a href="https://youtu.be/FqCpJ5OCu1s">Divide Fractions with Rectangle Models, 1 of 2 (6:13)</a>
+<br><a href="https://youtu.be/qI8JUbxRg0Y">Divide Fractions with Rectangle Models, 2 of 2 (7:39)</a>
+<br><a href="https://youtu.be/4lkq3DgvmJo">Math Antics - Dividing Fractions (5:12)</a>
+<br><a href="https://youtu.be/RQrzNMk6S20">Reciprocals, Including Mixed Numbers and Decimals (8:18)</a>
+<br>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/multiplying_fractions/e/multiplying_fractions_by_integers">Multiplying fractions by whole numbers </a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/multiplying_fractions/e/multiplying_fractions_0.5">Multiplying fractions </a>
+<br><a href="https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2/e/negative-signs-in-numerators-and-denominators">Negative signs in numerators and denominators</a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/multiplying_fractions/e/multiplying_fractions">Multiplying positive and negative fractions </a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/multiplying_fractions/e/fraction-multiplication-as-scaling">Fraction multiplication as scaling</a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/div-fractions-fractions/e/understanding-dividing-fractions-by-fractions">Understanding dividing fractions by fractions</a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/div-fractions-fractions/e/dividing_fractions_1.5">Dividing fractions</a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/div-fractions-fractions/e/dividing_fractions_2">Dividing positive and negative fractions</a>
+<br><a href="https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2/e/complex-fractions">Simplifying hairy fractions</a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/div-fractions-fractions/e/dividing-fractions-by-fractions-word-problems">Dividing fractions word problems</a>
+<br><a href="https://www.khanacademy.org/math/arithmetic/fractions/mixed_number_mult_div/e/multiplying_mixed_numbers_1">Multiplying mixed numbers </a>
+<br><a href="https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2/e/dividing-mixed-numbers">Dividing mixed numbers</a>
+</div>  
+
+<label class="collapse big script" for="_2">Fractions &#8596; Decimals &#8596; Percents</label> <input id="_2" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/Mst8iZjIpFE">Math Antics - Fractions and Decimals (Very Basic Review) (9:14)</a>
+<br><a href="https://youtu.be/_jcW-ZgpRbM">Math Antics - Converting Base-10 Fractions (6:58)</a>
+<br><a href="https://youtu.be/do_IbHId2Os">Math Antics - Convert any Fraction to a Decimal</a>
+<br><a href="https://youtu.be/IVUQkPxHBTc">Convert Repeating Decimals to Fractions, Part 1 (7:50)</a>
+<br><a href="https://youtu.be/-vvhbNJmyEc">Convert Repeating Decimals to Fractions, Part 2 (10:32)</a>
+<br><a href="https://youtu.be/kmVfZ9o-2gg">Math Antics - Percents And Equivalent Fractions</a>
+<br>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/decimals-pre-alg/percent-intro-pre-alg/e/converting_decimals_to_percents">Converting decimals to percents</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/decimals-pre-alg/percent-intro-pre-alg/e/converting_percents_to_decimals">Converting percents to decimals</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/decimals-fractions-pre-alg/e/converting_fractions_to_decimals">Converting fractions to decimals</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/decimals-fractions-pre-alg/e/converting_decimals_to_fractions_1">Rewriting decimals as fractions</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/decimals-fractions-pre-alg/e/converting_decimals_to_fractions_2">Rewriting decimals as fractions 2</a>
+<br><a href="https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/decimals-fractions-pre-alg/e/writing-fractions-as-repeating-decimals">Writing fractions as repeating decimals</a>
+<br><a href="https://www.khanacademy.org/math/algebra/alg-1-old-content/conv_rep_decimals/e/converting_repeating_decimals_to_fractions_1">Converting 1-digit repeating decimals to fractions</a>
+<br><a href="https://www.khanacademy.org/math/algebra/alg-1-old-content/conv_rep_decimals/e/converting_repeating_decimals_to_fractions_2">Converting multi-digit repeating decimals to fractions</a>
+</div>
+
+<label class="collapse big script" for="_1">Areas and Perimeters</label> <input id="_1" type="checkbox">
+<div class="indent">
+<span class="script medium-small">Videos</span>
+<br><a href="https://youtu.be/AAY1bsazcgM">Math Antics - Perimeter (7:29)</a>
+<br><a href="https://youtu.be/xCdxURXMdFY">Math Antics - Area (10:26)</a>
+<br><a href="https://youtu.be/B5Z6PMN5LdU">Area of a Parallelogram (3:13)</a>
+<br><a href="https://youtu.be/3xRx8gURGwI">Area and Perimeter of Trapezoids (3:52)</a>
+<br><a href="https://youtu.be/_IqUheqFwEw">SAT Exam Tutorial - Area and perimeter of a polygon (9:59)</a>
+<br>
+<br><span class="script medium-small">Khan Academy Exercises</span>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/perimeter_1">Perimeter 1</a>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/finding-area-by-multiplying">Area of rectangles</a>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/area-and-perimeter-of-rectangles-word-problems">Area and perimeter of rectangles word problems</a>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/area_of_triangles_1">Area of triangles</a>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/area_of_parallelograms">Area of parallelograms</a>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/areas_of_trapezoids_rhombi_and_kites">Area of trapezoids</a>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/composing-and-decomposing-shapes">Area challenge</a>
+<br><a href="https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/e/area-of-quadrilaterals-and-polygons">Area of composite figures</a>
+</div>
+
+
+<br>
+</div>
+  <!--#include virtual="/navbar7.inc"-->
+  <!--#include virtual="/navbar.inc"-->
+</div>
+</div>
+</body>
+</html>
+
