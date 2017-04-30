@@ -23,11 +23,24 @@
 /**
  * Set your color scheme below
  */
+$calColorBgDark      = '#C0A234';	// dark background color
+$calColorTextOnDark  = '#ffffff';	// text appearing on top of dark bg color
+$calColorBgLight     = '#FFEF81';	// light background color
+$calColorTextOnLight = '#000000';	// text appearing on top of light bg color
+$calColorBgToday     = '#FFFFCD';	// background color for "today" box
+
+
+/**
+ * South Bay color scheme
+ */
+/*
 $calColorBgDark      = '#4c47b8';	// dark background color
 $calColorTextOnDark  = '#ffffff';	// text appearing on top of dark bg color
 $calColorBgLight     = '#e8eef7';	// light background color
 $calColorTextOnLight = '#000000';	// text appearing on top of light bg color
 $calColorBgToday     = '#ffffcc';	// background color for "today" box
+*/
+
 
 /**
  * Orange color scheme
